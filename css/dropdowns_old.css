@@ -1,0 +1,125 @@
+
+
+.dropdowns a {text-decoration: none;}
+
+.toggleMenu {
+    display:  none;
+    color: #fff;
+    font-size: 18px;
+    padding: 12px;
+    position: relative;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Estilos de Links */
+.tog:link {
+	color:#ffffff;
+	text-decoration: none;
+}
+.tog:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+.tog:hover {
+	text-decoration: none;
+	color: #ffde5d;
+}
+.tog:active {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+
+.nav {
+    list-style: none;
+     *zoom: 1;
+     position: relative;
+}
+.nav:before,
+.nav:after {
+    content: " "; 
+    display: table; 
+}
+.nav:after {
+    clear: both;
+}
+.nav ul {
+    list-style: none;
+    
+    padding: 10px;
+}
+.nav a {
+    padding: 100px;
+    color:#fff;
+    *zoom: 1;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300px;
+    font-family: 'Lato', sans-serif;
+        
+}
+.nav > li {
+    float: left;
+    z-index: 200;
+}
+.nav > li > a {
+    display: block;
+    padding: 10px 28px !important;
+}
+
+.nav>li>a:hover {
+    background-color: #ffde5d !important;
+    color: #3d1d12 !important;
+}
+
+.nav li ul {
+    position: absolute;
+    left: -9999px;
+    z-index: 100;
+}
+.nav li li a {
+    display: block;
+    background: #ffde5d;
+    position: relative;
+    z-index:100;
+    border-top: 1px solid #ffde5d;
+}
+
+
+.nav li li li a {
+    background:#249578;
+    z-index:200;
+    border-top: 1px solid #ffde5d;
+}
+
+@media screen and (max-width: 768px) {
+    .active {
+        display: block;
+    }
+    .nav > li > a {
+     background-color: #ffde5d !important;
+    color: #3d1d12 !important;
+        margin-bottom: 3px;
+    
+}
+    .nav > li {
+        float: none;
+    }
+    .nav > li > .parent {
+        background-position: 95% 50%;
+    }
+    .nav li li .parent {
+        background-image: url("images/downArrow.png");
+        background-repeat: no-repeat;
+        background-position: 95% 50%;
+    }
+    .nav ul {
+        display: block;
+        width: 100%;
+    }
+   .nav > li.hover > ul , .nav li li.hover ul {
+        position: static;
+    }
+
+}
