@@ -1287,6 +1287,10 @@ background-color: #ffffff;background-image:url('data:image/svg+xml;base64,PHN2Zy
 	font-weight: 900;
 	font-style: italic;
 }
+.espaco{
+	height: 50px;
+	position: relative;
+}
 
 .titulo_branco {
 	color: #ffffff;

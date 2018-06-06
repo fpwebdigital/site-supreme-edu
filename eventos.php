@@ -93,27 +93,54 @@
                             <h1 class="titulo_branco">PALESTRANTES</h1></div>
                     </div>
                 </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                               <img src="images/kingsley.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Kingsley Adeshina</h3>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/joao-lucca.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Joao De Lucca Souza</h3>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/lealobo.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Lea Lobo</h3>
+                            </div>
+                        </div>
+                        <div class="espaco"></div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/clovis.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Clovis Porto</h3>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/jair.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Jair Liberal</h3>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/linconl.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Lincoln Gomes</h3>
+                            </div>
+                        </div>
+                        <div class="espaco"></div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/andrea.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Andrea Vaine</h3>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/rafael-lourenco.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Rafael Lourenço</h3>
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <img src="images/marciolupianes.png" class="img-responsive center-block">
+                                <h3 class="titulo_marrom2">Marcio Lupianes</h3>
+                            </div>
+                        </div>
 
             </div>
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12">
-                        <div id="bg_titulos"><h1 class="titulo_branco">FOTOS DA ESCOLA</h1></div>
-                    </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola01.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola02.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola03.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola04.jpg" class="img-responsive center-block"></div></div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola05.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola06.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola07.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola08.jpg" class="img-responsive center-block"></div></div>
-                </div>
-
             </div>
+
+
         <?php include("include/footer.php"); ?>
