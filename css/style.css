@@ -1,4 +1,3 @@
-@import 'https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i';
 html, body {
     min-height: 100%;
     height: auto !important;
@@ -16,20 +15,12 @@ html, body {
 	margin-bottom: 0px;
 	overflow-x:hidden;
 	text-align:center;
-	font-family:Verdana, Geneva, sans-serif;
+    font-family: 'Lato', sans-serif;
 	font-size:11px;
 	color:#FFF;
 }
 
-body {
-    font: 100.01% "Trebuchet MS", Trebuchet, Tahoma, Verdana, Arial, sans-serif;
-    color: #333;
-    padding: 0;
-}
 
-body * {
-    line-height:1.22em;
-}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, "Times New Roman", Times, serif;
