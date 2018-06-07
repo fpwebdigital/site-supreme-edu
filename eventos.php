@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
             <div id="linhas"></div>
             <div class="container">
                 <div class="row">
@@ -100,45 +96,45 @@
                     </div>
                 </div>
                         <div class="row">
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                <a href=""  data-toggle="modal" data-target=".kingsley"> <img src="images/kingsley.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Kingsley Adeshina</h3>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".joao"><img src="images/joao-lucca.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Joao De Lucca Souza</h3>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".lea"><img src="images/lealobo.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Lea Lobo</h3>
                             </div>
                         </div>
                         <div class="espaco"></div>
                         <div class="row">
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".clovis"><img src="images/clovis.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Clovis Porto</h3>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".jair"><img src="images/jair.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Jair Liberal</h3>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".lincoln"><img src="images/linconl.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Lincoln Gomes</h3>
                             </div>
                         </div>
                         <div class="espaco"></div>
                         <div class="row">
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".andrea"> <img src="images/andrea.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Andrea Vaine</h3>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".rafael"><img src="images/rafael-lourenco.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Rafael Lourenço</h3>
                             </div>
-                            <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <a href=""  data-toggle="modal" data-target=".marcio"> <img src="images/marciolupianes.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Marcio Lupianes</h3>
                             </div>
@@ -148,35 +144,58 @@
                                 <div id="bg_titulos">
                                     <h1 class="titulo_branco">FAÇA SUA INSCRIÇÃO</h1></div>
                                 <div class="col-lg-8 col-md-12 col-sm-12">
+
                                     <div class="selecionar esquerdo texto_geral">
-                                        Selecione o tipo de inscrição:
+                                        <span class="titulo_marrom2">Preencha as informações abaixo e nossa equipe entrará em contato para finalizar o processo.</span><br><br>
+                                        Selecione o tipo de inscrição:<br>
                                     <input id="opt-1" name="ask" type="radio">
                                     <label id="opt-1_id" for="opt-1">1 Pessoa &nbsp;&nbsp;</label>
                                     <input id="opt-2" name="ask" type="radio">
-                                    <label id="opt-2_id" for="opt-2">Grupo de 3</label>
+                                    <label id="opt-2_id" for="opt-2">Grupo de 3 pessoas</label><br><br>
                                     </div>
 
                                     <div class="s_node" id="childopt-1">
                                     <form method="post" action="inscricao-individual.php" enctype="multipart/form-data">
                                         <h1>Individual</h1>
-                                        <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div></div>
-                                        <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="email2" type="email" name="email" class="input-inputprincipal" placeholder="E-mail" required></div></div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="telefone2" type="text" name="telefone" class="input-inputprincipal" placeholder="Telefone" required></div></div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Empresa" required autofocus></div></div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Cargo" required autofocus></div></div>
+                                        <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-nome" type="text" name="ind-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div></div>
+                                        <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-email" type="email" name="ind-email" class="input-inputprincipal" placeholder="E-mail" required></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-tel" type="text" name="ind-tel" class="input-inputprincipal" placeholder="Telefone" required></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-empresa" type="text" name="int-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-cargo" type="text" name="ind-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div></div>
                                         <div class="col-lg-12 col-md-12 col-sm-12"><div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div></div>
                                     </form>
                                     </div>
 
                                     <div class="s_node" id="childopt-2">
                                         <form method="post" action="inscricao-grupo.php" enctype="multipart/form-data">
-                                            <h1>Grupo</h1>
-                                            <div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Nome" required autofocus></div>
-                                            <div id="bg_input"><input id="email2" type="email" name="email" class="input-inputprincipal" placeholder="E-mail" required></div>
-                                            <div id="bg_input"><input id="telefone2" type="text" name="telefone" class="input-inputprincipal" placeholder="Telefone" required></div>
-                                            <div id="bg_input"><input id="celular" type="text" name="celular" class="input-inputprincipal" placeholder="Celular" required></div>
-                                            <div id="bg_input"><textarea id="mensagem" type="text" name="mensagem" class="input-inputarea" placeholder="Mensagem" required></textarea></div>
-                                            <div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div>
+
+                                            <h1>Grupo de 3 Pessoas</h1>
+                                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                                <h1 class="titulo_marrom2">Pessoa 1</h1>
+                                                <div id="bg_input"><input id="gr1-nome" type="text" name="gr1-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div>
+                                                <div id="bg_input"><input id="gr1-email" type="email" name="gr1-email" class="input-inputprincipal" placeholder="E-mail" required></div>
+                                                <div id="bg_input"><input id="gr1-tel" type="text" name="gr1-tel" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                                <div id="bg_input"><input id="gr1-empresa" type="text" name="gr1-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div>
+                                                <div id="bg_input"><input id="gr1-cargo" type="text" name="gr1-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div>
+                                            </div>
+                                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                                <h1 class="titulo_marrom2">Pessoa 2</h1>
+                                                <div id="bg_input"><input id="gr2-nome" type="text" name="gr2-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div>
+                                                <div id="bg_input"><input id="gr2-email" type="email" name="gr2-email" class="input-inputprincipal" placeholder="E-mail" required></div>
+                                                <div id="bg_input"><input id="gr2-tel" type="text" name="gr2-tel" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                                <div id="bg_input"><input id="gr2-empresa" type="text" name="gr2-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div>
+                                                <div id="bg_input"><input id="gr2-cargo" type="text" name="gr2-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div>
+                                            </div>
+                                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                                <h1 class="titulo_marrom2">Pessoa 3</h1>
+                                                <div id="bg_input"><input id="gr3-nome" type="text" name="gr3-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div>
+                                                <div id="bg_input"><input id="gr3-email" type="email" name="gr3-email" class="input-inputprincipal" placeholder="E-mail" required></div>
+                                                <div id="bg_input"><input id="gr3-tel" type="text" name="gr3-tel" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                                <div id="bg_input"><input id="gr3-empresa" type="text" name="gr3-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div>
+                                                <div id="bg_input"><input id="gr3-cargo" type="text" name="gr3-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div>
+                                            </div>
+
+                                            <div class="col-lg-12 col-md-12 col-sm-12"><div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div></div>
                                         </form>
                                     </div>
 
@@ -186,11 +205,18 @@
                                         será R$ 200,00 cada.</p>
                                     <p><strong>Valores para Grupo de 3 Pessoas</strong><br>Cada grupo de 3 participantes - R$ 150,00 por grupo. Inscrição até dia 15 de julho, a partir do dia
                                         16 de julho inscrição será R$ 250,00 para o grupo das 3 pessoas</p>
-                                    <p>Para pagamentos e reservas, envie um email com o nome completo do(s) <participante></participante>(s) para:
+                                    <p>Para pagamentos e reservas, envie um email com o nome completo do(s) participante(s) para:
                                         <a href="mailto:events@supreme-edu.com.br" class="linkmais" target="_blank"><strong>events@supreme-edu.com.br</strong></a> </p>
-
                                 </div>
                             </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <h1 class="titulo_marrom2 centralizar">Parceiros</h1>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-laureate.png" class="img-responsive center-block"><br></div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-einstein.png" class="img-responsive center-block"><br></div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-fleury.png" class="img-responsive center-block"><br></div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-manserv.png" class="img-responsive center-block"><br></div>
                         </div>
 
 
