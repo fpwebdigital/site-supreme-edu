@@ -5,6 +5,9 @@
 
 
 
+
+
+
             <div id="linhas"></div>
             <div class="container">
                 <div class="row">
@@ -95,45 +98,45 @@
                 </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                               <img src="images/kingsley.png" class="img-responsive center-block">
+                               <a href=""  data-toggle="modal" data-target=".kingsley"> <img src="images/kingsley.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Kingsley Adeshina</h3>
                             </div>
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/joao-lucca.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".joao"><img src="images/joao-lucca.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Joao De Lucca Souza</h3>
                             </div>
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/lealobo.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".lea"><img src="images/lealobo.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Lea Lobo</h3>
                             </div>
                         </div>
                         <div class="espaco"></div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/clovis.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".clovis"><img src="images/clovis.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Clovis Porto</h3>
                             </div>
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/jair.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".jair"><img src="images/jair.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Jair Liberal</h3>
                             </div>
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/linconl.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".lincoln"><img src="images/linconl.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Lincoln Gomes</h3>
                             </div>
                         </div>
                         <div class="espaco"></div>
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/andrea.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".andrea"> <img src="images/andrea.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Andrea Vaine</h3>
                             </div>
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/rafael-lourenco.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".rafael"><img src="images/rafael-lourenco.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Rafael Lourenço</h3>
                             </div>
                             <div class="col-lg-4 col-md-12 col-sm-12">
-                                <img src="images/marciolupianes.png" class="img-responsive center-block">
+                                <a href=""  data-toggle="modal" data-target=".marcio"> <img src="images/marciolupianes.png" class="img-responsive center-block"></a>
                                 <h3 class="titulo_marrom2">Marcio Lupianes</h3>
                             </div>
                         </div>
@@ -141,6 +144,249 @@
             </div>
                 </div>
             </div>
+    <!--  Modal Kingsley -->
+    <div class="modal kingsley" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Kingsley Adeshina</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/kingsley-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Redefining Education and Communication (case study Supreme
+                                    Educators Idiomas Brazil Ltda)</strong></p>
+                            <p>Empreendedor, desenvolvedor de negócios, administrador, professor, orador público,
+                                comerciante experiente. Possui graduação e pós-graduação em Administração. Com uma
+                                carreira de sucesso de quase 20 anos em muitos setores diferentes, incluindo bancos, T.I,
+                                mercado de ações, petróleo e gás e educação. Também tem muita experiência em assuntos
+                                interculturais porque viveu e trabalhou com empresas em diferentes países da África, Europa
+                                e América Latina. Atualmente é o CEO da Supreme Educators Idiomas Brazil Ltda.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <!--  Modal Joao De Lucca Souza -->
+    <div class="modal joao" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Joao De Lucca Souza</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/joao-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Globalizing university education in Brazil (case study Laureate
+                                    International Universities)</strong></p>
+                            <p>Engenheiro Civil com pós-graduações em Real Estate, Gerenciamento de Empreendimentos
+                                da Construção Civil e Manutenção Predial, além de especializações em Planejamento e Gestão
+                                de Projetos. Possui mais de 27 anos de experiência em Gestão de Obras e Projetos, Real
+                                Estate, Manutenção Predial, Facilities e Segurança. Sólida experiência na estruturação das
+                                áreas de gestão e liderança das equipes próprias e terceiras. O executivo ficou por 8 anos no
+                                Grupo Fleury, sendo responsável por toda a área de Infraestrutura envolvendo Expansão e
+                                Gestão Imobiliária, Engenharia, Manutenção Predial, Facilities e Segurança Empresarial.
+                                Atualmente é Diretor Executivo Nacional (Brasil) de Operações e Real Estate do Grupo
+                                Laureate International Universities.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Lea Lobo -->
+    <div class="modal lea" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Lea Lobo</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/lea-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Improving communication within an industry through journalism (case study Infra
+                                    magazine)</strong></p>
+                            <p>Empreendedora, administradora, jornalista e pós-graduada em Marketing. Possui carreira
+                                especializada em gestão de revistas técnicas, sendo os últimos 18 anos como Diretora de
+                                Redação da Revista INFRA. É gestora de conteúdo dos Eventos INFRA, realizados em São Paulo
+                                e outras cinco capitais do País. Soma à sua trajetória a participação em inúmeros eventos,
+                                tanto no âmbito nacional quanto internacional. Atualmente é aluna do MBA/USP
+                                Gerenciamento de Facilidades.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Clovis Porto -->
+    <div class="modal clovis" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Clovis Porto</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/clovis-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>New trends in the Diagnostic industry (case study Grupo Fleury)</strong></p>
+                            <p>Engenheiro Mecatrônico pela Universidade Paulista, Pós Graduação em Gestão de Projetos e
+                                MBA em Gestão de Negócios. É MCR (Master Corporate Real Estate) pela CoreNet Global. Tem
+                                mais de 22 anos de experiência em Manutenção Industrial do ramo químico/farmacêutico,
+                                Manutenção Predial e Facilities Management no segmento de saúde, assim como implantação
+                                de projetos de variados portes. Atualmente é Gerente Corporativo Sênior de Manutenção
+                                Predial, Facilities e Assuntos Regulatórios do Grupo Fleury</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Jair Liberal -->
+    <div class="modal jair" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Jair Liberal</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/jair-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Importance of Accounting department in Real Estate industry (case study Grupo
+                                    Zap)</strong></p>
+                            <p>Graduado em Administração de Empresas pela Universidade Guarulhos e possui Mestrado em
+                                Gestão de Negócios pela FGV em 2005 e 2008, respectivamente. Tem 26 anos de experiência
+                                em Contabilidade Financeira e Gestão de Negócios. Começou sua carreira no Grupo Lund em
+                                1992. Ele ingressou na Zap Imovies em 2011 depois de trabalhar como líder em algumas outras
+                                empresas também. Em 2017/2018, Jair desempenhou um papel significativo na fusão bemsucedida
+                                entre a Zap Imovies e a Vivareal, hoje conhecida como Zap Ever Group desde janeiro
+                                de 2018. Atualmente, é gerente de finanças do Grupo Zap.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Lincoln Gomes -->
+    <div class="modal lincoln" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Lincoln Gomes</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/linconl-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Facilities management in the Healthcare industry (case study Hospital
+                                    Isrealita Albert Einstein)</strong></p>
+                            <p>Administrador, Graduado em gestão de negócios e Bacharel em Marketing pela universidade
+                                Anhembi Morumbi, cursou especialização em direito imobiliário pela FGV e atualmente cursa
+                                MBA Executivo em Gestão de Saúde pelo Insper. Carreira consolidada como FM, tendo atuado
+                                nos últimos 17 anos em empresa como Microsoft, Cushman & Wakfield, Etna/Vivara e Grupo
+                                Fleury. Soma à sua trajetória a publicação de artigos e palestrar em eventos do setor e é
+                                docente nos cursos de pós Graduação de Excelência Operacional e Gestão de serviços
+                                hospitalares pelo Centro de Ensino e Pesquisa Albert Einstein. Atualmente é Gerente de
+                                Facilities da SBIBAE – Sociedade Beneficente Israelita Albert Einstein.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Andrea Vaine -->
+    <div class="modal andrea" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Andrea Vaine</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/andrea-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>The advancement of outsourcing services in Brazil (case study Manserv)</strong></p>
+                            <p>Pós-graduada em Gestão de Negócios em Serviços pela Universidade Presbiteriana
+                                Mackenzie, bacharel em administradora hoteleira pelo Uni Sant'anna e é formada na categoria
+                                green belt do programa Lean Six Sigma. Atua há 15 anos na área de FM e contribuiu na gestão
+                                de serviços do Hospital Albert Einstein, FMU, UNIFACS e atualmente ocupa da posição de
+                                Diretora Operações de Hospitais e Saúde na Manserv Facilities.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Rafael de Oliveira Lourenco -->
+    <div class="modal rafael" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Rafael de Oliveira Lourenco</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/rafael-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Importance of standardized internal communication within the
+                                    company (case study Grupo Zap)</strong></p>
+                            <p>Rafael Lourenço é Jornalismo formado pela Universidade São Judas Tadeu e mestre em
+                                Comunicação pela Faculdade Casper Líbero. Trabalha com comunicação interna desde 2011
+                                e, durante este período teve oportunidade de participar de projetos de mudanças de cultura,
+                                fusão e aquisição de empresas. Foi responsável pela implantação da área de Comunicação
+                                Interna na Construtora Tenda e no ZAP Imóveis. Atualmente é responsável pela área de
+                                Comunicação Interna e Endomarketing do Grupo ZAP.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Marcio Lupianes -->
+    <div class="modal marcio" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Marcio Lupianes</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/marcio-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <p><strong>Importance of Information Technology to Alcoholic beverage industry
+                                    (case study Gruppo Campari)</strong></p>
+                            <p>Engenheiro de computação com escola de Engenharia Maua, MBA em TI e outro MBA em
+                                Gestão de negócios. É um profissional com muitas experiencas de aplicações de TI, com 13
+                                anos de experiência em arquitetura e manutenção de sistemas, através de entregas de
+                                projetos. Trabalhou como líder no departamento de TI de muitas empresas, incluindo Unilver,
+                                RedBull e DIAGEO. Atualmente é Gerente de Demanda de TI Sul Amenrica do Gruppo Campari.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
         <?php include("include/footer.php"); ?>
