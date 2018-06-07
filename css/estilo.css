@@ -48,6 +48,9 @@ body {
 	text-align: justify;
 }
 
+.s_node {
+	display:none;
+}
 
 #menu {
 	position: relative;

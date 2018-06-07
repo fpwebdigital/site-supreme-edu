@@ -45,6 +45,9 @@
                     </div>
 
                 </div>
+                <div class="row">
+                    <button type="button" class="btn btn-primary btn-lg btn-block">INSCRIÇÃO</button>
+                </div>
             </div>
 
 
@@ -140,6 +143,57 @@
                                 <h3 class="titulo_marrom2">Marcio Lupianes</h3>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                <div id="bg_titulos">
+                                    <h1 class="titulo_branco">FAÇA SUA INSCRIÇÃO</h1></div>
+                                <div class="col-lg-8 col-md-12 col-sm-12">
+                                    <div class="selecionar esquerdo texto_geral">
+                                        Selecione o tipo de inscrição:
+                                    <input id="opt-1" name="ask" type="radio">
+                                    <label id="opt-1_id" for="opt-1">1 Pessoa &nbsp;&nbsp;</label>
+                                    <input id="opt-2" name="ask" type="radio">
+                                    <label id="opt-2_id" for="opt-2">Grupo de 3</label>
+                                    </div>
+
+                                    <div class="s_node" id="childopt-1">
+                                    <form method="post" action="inscricao-individual.php" enctype="multipart/form-data">
+                                        <h1>Individual</h1>
+                                        <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div></div>
+                                        <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="email2" type="email" name="email" class="input-inputprincipal" placeholder="E-mail" required></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="telefone2" type="text" name="telefone" class="input-inputprincipal" placeholder="Telefone" required></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Empresa" required autofocus></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Cargo" required autofocus></div></div>
+                                        <div class="col-lg-12 col-md-12 col-sm-12"><div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div></div>
+                                    </form>
+                                    </div>
+
+                                    <div class="s_node" id="childopt-2">
+                                        <form method="post" action="inscricao-grupo.php" enctype="multipart/form-data">
+                                            <h1>Grupo</h1>
+                                            <div id="bg_input"><input id="nome" type="text" name="nome" class="input-inputprincipal" placeholder="Nome" required autofocus></div>
+                                            <div id="bg_input"><input id="email2" type="email" name="email" class="input-inputprincipal" placeholder="E-mail" required></div>
+                                            <div id="bg_input"><input id="telefone2" type="text" name="telefone" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                            <div id="bg_input"><input id="celular" type="text" name="celular" class="input-inputprincipal" placeholder="Celular" required></div>
+                                            <div id="bg_input"><textarea id="mensagem" type="text" name="mensagem" class="input-inputarea" placeholder="Mensagem" required></textarea></div>
+                                            <div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div>
+                                        </form>
+                                    </div>
+
+                                </div>
+                                <div class="col-lg-4 col-md-12 col-sm-12 texto_geral justificar">
+                                    <p><strong>Valores Individuais</strong><br>1 ou 2 participantes - R$ 100,00 cada para inscrição até dia 15 de julho, a partir do dia 16 de julho a inscrição
+                                        será R$ 200,00 cada.</p>
+                                    <p><strong>Valores para Grupo de 3 Pessoas</strong><br>Cada grupo de 3 participantes - R$ 150,00 por grupo. Inscrição até dia 15 de julho, a partir do dia
+                                        16 de julho inscrição será R$ 250,00 para o grupo das 3 pessoas</p>
+                                    <p>Para pagamentos e reservas, envie um email com o nome completo do(s) <participante></participante>(s) para:
+                                        <a href="mailto:events@supreme-edu.com.br" class="linkmais" target="_blank"><strong>events@supreme-edu.com.br</strong></a> </p>
+
+                                </div>
+                            </div>
+                        </div>
+
+
 
             </div>
                 </div>
@@ -388,5 +442,15 @@
             </div>
         </div>
     </div>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('input[type=radio]').change(function() {
+                var q = this.id.split('-')[1];
+                $('.s_node').fadeOut();
+                $('#childopt-' + q).fadeIn();
+            });
+        });
+    </script>
 
         <?php include("include/footer.php"); ?>
