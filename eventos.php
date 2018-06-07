@@ -42,7 +42,7 @@
 
                 </div>
                 <div class="row">
-                    <button type="button" class="btn btn-primary btn-lg btn-block">INSCRIÇÃO</button>
+                   <a href="#inscricao" class="scrollSuave"><button class="btn-supreme">FAZER INSCRIÇÃO</button> </a>
                 </div>
             </div>
 
@@ -139,7 +139,7 @@
                                 <h3 class="titulo_marrom2">Marcio Lupianes</h3>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row" id="inscricao">
                             <div class="col-lg-12 col-md-12 col-sm-12">
                                 <div id="bg_titulos">
                                     <h1 class="titulo_branco">FAÇA SUA INSCRIÇÃO</h1></div>
@@ -160,7 +160,7 @@
                                         <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-nome" type="text" name="ind-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div></div>
                                         <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-email" type="email" name="ind-email" class="input-inputprincipal" placeholder="E-mail" required></div></div>
                                         <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-tel" type="text" name="ind-tel" class="input-inputprincipal" placeholder="Telefone" required></div></div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-empresa" type="text" name="int-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-empresa" type="text" name="ind-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div></div>
                                         <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-cargo" type="text" name="ind-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div></div>
                                         <div class="col-lg-12 col-md-12 col-sm-12"><div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div></div>
                                     </form>
@@ -478,5 +478,13 @@
             });
         });
     </script>
+<script>var $doc = $('html, body');
+    $('a').click(function() {
+        $doc.animate({
+            scrollTop: $( $.attr(this, 'href') ).offset().top
+        }, 500);
+        return false;
+    });
+</script>
 
         <?php include("include/footer.php"); ?>

@@ -12,6 +12,59 @@ body {
 	font-family: 'Lato', sans-serif;
 
 }
+
+.btn-supreme {
+	color: #ffffff;
+	background-color: #3D1D12;
+	border-color: #3D1D12;
+	margin-top: 25px;
+	padding: 15px;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	border-radius: 10px;
+
+}
+
+.btn-supreme:hover,
+.btn-supreme:focus,
+.btn-supreme:active,
+.btn-supreme.active,
+.open .dropdown-toggle.btn-supreme {
+	color: #ffffff;
+	background-color: #583326;
+	border-color: #583326;
+}
+
+.btn-supreme:active,
+.btn-supreme.active,
+.open .dropdown-toggle.btn-supreme {
+	background-image: none;
+}
+
+.btn-supreme.disabled,
+.btn-supreme[disabled],
+fieldset[disabled] .btn-supreme,
+.btn-supreme.disabled:hover,
+.btn-supreme[disabled]:hover,
+fieldset[disabled] .btn-supreme:hover,
+.btn-supreme.disabled:focus,
+.btn-supreme[disabled]:focus,
+fieldset[disabled] .btn-supreme:focus,
+.btn-supreme.disabled:active,
+.btn-supreme[disabled]:active,
+fieldset[disabled] .btn-supreme:active,
+.btn-supreme.disabled.active,
+.btn-supreme[disabled].active,
+fieldset[disabled] .btn-supreme.active {
+	background-color: #3D1D12;
+	border-color: #130269;
+}
+
+.btn-supreme .badge {
+	color: #3D1D12;
+	background-color: #ffffff;
+}
+
 #faixatopo {
 	position: relative;
 	width: 100%;

@@ -22,9 +22,9 @@
 
         <li><a href="cursos">Cursos</a></li>
 
-        <li><a href="servicos">Serviços</a>
+        <li><a href="eventos">Eventos</a>
 
-    <li><a href="eventos">Eventos</a>
+    <li><a href="servicos">Serviços</a>
 
         <ul>
 

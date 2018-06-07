@@ -2,11 +2,11 @@
 <?php
 
 $recipient = "fpwebdigital@gmail.com";
-$subject = "INSCRIÇÃO INDIVIDUAL - Enviado pelo Site";
+$subject = "INSCRIÇÃO INDIVIDUAL (Eventos) - Enviado pelo Site";
 $texto = '
 		<table width="600" border="0" align="center" style="border:1px solid #c2c2c2" bgcolor=" #E5E5E5">
 		 <tr>
-			<td colspan="4" align="center" bgcolor="#626769"><font size="5" face="Arial, Helvetica, sans-serif" color="#ffffff">Contato - Enviado pelo Site</td>
+			<td colspan="4" align="center" bgcolor="#626769"><font size="5" face="Arial, Helvetica, sans-serif" color="#ffffff">INSCRIÇÃO INDIVIDUAL</td>
 		  </tr>
 		  <tr>
 			<td align="right" width="20%"><font size="-1" face="Arial, Helvetica, sans-serif" color="#333333"><strong>Nome:</strong></td>
@@ -38,7 +38,7 @@ $mens .= "$texto\n";
 $mens .= "--$boundary\n";
 $mens .= "--$boundary--\r\n";
 $mailheaders = "MIME-Version: 1.0\n";
-$mailheaders .= "From: ".$_POST['nome']." <".$_POST['email'].">\r\n";
+$mailheaders .= "From: ".$_POST['ind-nome']." <".$_POST['ind-email'].">\r\n";
 $mailheaders .= "Content-type: multipart/mixed; boundary=\"$boundary\"\r\n";
 $mailheaders .= "$boundary\n";
 
