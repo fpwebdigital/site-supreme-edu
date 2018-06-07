@@ -159,7 +159,7 @@
                                         <h1>Individual</h1>
                                         <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-nome" type="text" name="ind-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div></div>
                                         <div class="col-lg-6 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-email" type="email" name="ind-email" class="input-inputprincipal" placeholder="E-mail" required></div></div>
-                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-tel" type="text" name="ind-tel" class="input-inputprincipal" placeholder="Telefone" required></div></div>
+                                        <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-tel" type="tel" maxlength="15" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" name="ind-tel" class="input-inputprincipal" placeholder="Celular com DD" required></div></div>
                                         <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-empresa" type="text" name="ind-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div></div>
                                         <div class="col-lg-4 col-md-12 col-sm-12"><div id="bg_input"><input id="ind-cargo" type="text" name="ind-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div></div>
                                         <div class="col-lg-12 col-md-12 col-sm-12"><div id="bg_input_bt"> <input type="submit" class="btn2 btn2-6 btn2-6b" value="ENVIAR" /></div></div>
@@ -174,7 +174,7 @@
                                                 <h1 class="titulo_marrom2">Pessoa 1</h1>
                                                 <div id="bg_input"><input id="gr1-nome" type="text" name="gr1-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div>
                                                 <div id="bg_input"><input id="gr1-email" type="email" name="gr1-email" class="input-inputprincipal" placeholder="E-mail" required></div>
-                                                <div id="bg_input"><input id="gr1-tel" type="text" name="gr1-tel" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                                <div id="bg_input"><input id="gr1-tel" type="tel" maxlength="15" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" name="gr1-tel" class="input-inputprincipal" placeholder="Celular com DD" required></div>
                                                 <div id="bg_input"><input id="gr1-empresa" type="text" name="gr1-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div>
                                                 <div id="bg_input"><input id="gr1-cargo" type="text" name="gr1-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div>
                                             </div>
@@ -182,7 +182,7 @@
                                                 <h1 class="titulo_marrom2">Pessoa 2</h1>
                                                 <div id="bg_input"><input id="gr2-nome" type="text" name="gr2-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div>
                                                 <div id="bg_input"><input id="gr2-email" type="email" name="gr2-email" class="input-inputprincipal" placeholder="E-mail" required></div>
-                                                <div id="bg_input"><input id="gr2-tel" type="text" name="gr2-tel" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                                <div id="bg_input"><input id="gr2-tel" type="tel" maxlength="15" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" name="gr2-tel" class="input-inputprincipal" placeholder="Celular com DD" required></div>
                                                 <div id="bg_input"><input id="gr2-empresa" type="text" name="gr2-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div>
                                                 <div id="bg_input"><input id="gr2-cargo" type="text" name="gr2-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div>
                                             </div>
@@ -190,7 +190,7 @@
                                                 <h1 class="titulo_marrom2">Pessoa 3</h1>
                                                 <div id="bg_input"><input id="gr3-nome" type="text" name="gr3-nome" class="input-inputprincipal" placeholder="Nome Completo" required autofocus></div>
                                                 <div id="bg_input"><input id="gr3-email" type="email" name="gr3-email" class="input-inputprincipal" placeholder="E-mail" required></div>
-                                                <div id="bg_input"><input id="gr3-tel" type="text" name="gr3-tel" class="input-inputprincipal" placeholder="Telefone" required></div>
+                                                <div id="bg_input"><input id="gr3-tel" type="tel" maxlength="15" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" name="gr3-tel" class="input-inputprincipal" placeholder="Celular com DD" required></div>
                                                 <div id="bg_input"><input id="gr3-empresa" type="text" name="gr3-empresa" class="input-inputprincipal" placeholder="Empresa" required autofocus></div>
                                                 <div id="bg_input"><input id="gr3-cargo" type="text" name="gr3-cargo" class="input-inputprincipal" placeholder="Cargo" required autofocus></div>
                                             </div>
