@@ -1,0 +1,21 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^contato$ contato.php [L]
+RewriteRule ^cursos$ cursos.php [L]
+RewriteRule ^depoimentos$ depoimentos.php [L]
+RewriteRule ^faleconosco$ faleconosco.php [L]
+RewriteRule ^index$ index.php [L]
+RewriteRule ^kids$ kids.php [L]
+RewriteRule ^quemsomos$ quemsomos.php [L]
+RewriteRule ^servicos$ servicos.php [L]
+RewriteRule ^eventos eventos.php [L]
+RewriteRule ^vantagens$ vantagens.php [L]
+RewriteRule ^trabalhe-conosco$ trabalhe_conosco.php [L]
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php53” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddType application/x-httpd-ea-php53 .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

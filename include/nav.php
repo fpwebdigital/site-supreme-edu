@@ -24,6 +24,8 @@
 
         <li><a href="servicos">Serviços</a>
 
+    <li><a href="eventos">Eventos</a>
+
         <ul>
 
 			<li><a href="ingles_negocios.php">Inglês Para Negócios</a></li>
