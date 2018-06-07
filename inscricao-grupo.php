@@ -1,7 +1,7 @@
 <?php include_once("analyticstracking.php") ?>
 <?php
 
-$recipient = "fpwebdigital@gmail.com";
+$recipient = "events@supreme-edu.com.br";
 $subject = "INSCRIÇÃO GRUPO 3 PESSOAS (Eventos) - Enviado pelo Site";
 $texto = '
 		<table width="600" border="0" align="center" style="border:1px solid #c2c2c2" bgcolor=" #E5E5E5">
