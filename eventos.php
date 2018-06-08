@@ -118,7 +118,7 @@
                                     </div>
                                     <h3 class="titulo_marrom2">Joao De Lucca Souza</h3>
                                     <div class="role_description">
-                                        Laureate
+                                        Laureate Int'l Universities
                                     </div>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                                     </div>
                                     <h3 class="titulo_marrom2">Lincoln Gomes</h3>
                                     <div class="role_description">
-                                        SBIBAE
+                                        Hosp. Albert Einstein
                                     </div>
                                 </div>
                             </div>
@@ -192,7 +192,7 @@
                                     </div>
                                     <h3 class="titulo_marrom2">Andrea Vaine</h3>
                                     <div class="role_description">
-                                        Manserv Facilities
+                                        Manserv
                                     </div>
                                 </div>
                             </div>
