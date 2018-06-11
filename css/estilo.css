@@ -64,6 +64,9 @@ fieldset[disabled] .btn-supreme.active {
 
 
 .solutions_role_container {
+	width: 100%;
+	height: auto;
+	position: relative;
 	text-align:center;
 }
 
@@ -76,8 +79,23 @@ fieldset[disabled] .btn-supreme.active {
 	position: relative;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	border: 4px solid #e6c854;
+	border: 5px solid #e6c854;
 	box-shadow: 0 4px 10px #C6C6C6;
+}
+
+.role_add {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	z-index: 9;
+	position: absolute;
+	bottom: 108px;
+	right: 41px;
+	background-color: #3d1d12;
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 10px;
 }
 .role_description{
 	margin-bottom: 0px;
@@ -1704,7 +1722,20 @@ font-size:20px;
 }
 #at_rodape1 {
       text-align: center;
-}    
+}
+	.role_add {
+		width: 25px;
+		height: 25px;
+		right: 5px;
+		top: 59px;
+		font-size: 12px;
+		padding-top: 7px;
+	}
+	.role_img_container {
+
+		border: 3px solid #e6c854;
+
+	}
 
 }
 

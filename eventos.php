@@ -92,13 +92,15 @@
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div id="bg_titulos">
-                            <h1 class="titulo_branco">PALESTRANTES</h1></div>
+                            <h1 class="titulo_branco">PALESTRANTES E TEMAS</h1></div>
                     </div>
                 </div>
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
+
                                         <a href=""  data-toggle="modal" data-target=".kingsley" title="Kingsley Adeshina" class="solutions_role_image">
                                             <img src="images/kingsley-normal.png" alt="kingsley-normal.png" title="Saiba mais sobre Kingsley Adeshina">
                                         </a>
@@ -111,12 +113,13 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".joao" title="Joao De Lucca Souza" class="solutions_role_image">
                                             <img src="images/joao-normal.png" alt="Joao De Lucca Souza.png" title="Saiba mais sobre Joao De Lucca Souza">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Joao De Lucca Souza</h3>
+                                    <h3 class="titulo_marrom2">João De Lucca Souza</h3>
                                     <div class="role_description">
                                         Laureate Int'l Universities
                                     </div>
@@ -124,6 +127,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".lea" title="Lea Lobo" class="solutions_role_image">
                                             <img src="images/lea-normal.png" alt="Lea Lobo.png" title="Saiba mais sobre Lea Lobo">
@@ -143,6 +147,7 @@
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".clovis" title="Clovis Porto" class="solutions_role_image">
                                             <img src="images/clovis-normal.png" alt="Clovis Porto.png" title="Saiba mais sobre Clovis Porto">
@@ -156,6 +161,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".jair" title="Jair Liberal" class="solutions_role_image">
                                             <img src="images/jair-normal.png" alt="Jair Liberal.png" title="Saiba mais sobre Jair Liberal">
@@ -169,6 +175,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".lincoln" title="Lincoln Gomes" class="solutions_role_image">
                                             <img src="images/lincoln-normal.png" alt="Lincoln Gomes.png" title="Saiba mais sobre Lincoln Gomes">
@@ -185,6 +192,7 @@
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".andrea" title="Andrea Vaine" class="solutions_role_image">
                                             <img src="images/andrea-normal.png" alt="Andrea Vaine.png" title="Saiba mais sobre Andrea Vaine">
@@ -198,6 +206,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".rafael" title="Rafael Lourenço" class="solutions_role_image">
                                             <img src="images/rafael-normal.png" alt="Rafael Lourenço.png" title="Saiba mais sobre Rafael Lourenço">
@@ -211,6 +220,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                                 <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
                                         <a href=""  data-toggle="modal" data-target=".marcio" title="Marcio Lupianes" class="solutions_role_image">
                                             <img src="images/marcio-normal.png" alt="Marcio Lupianes.png" title="Saiba mais sobre Marcio Lupianes">
@@ -342,7 +352,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Joao De Lucca Souza</h4>
+                    <h4 class="modal-title titulo_marrom2">João De Lucca Souza</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
@@ -358,8 +368,7 @@
                                 áreas de gestão e liderança das equipes próprias e terceiras. O executivo ficou por 8 anos no
                                 Grupo Fleury, sendo responsável por toda a área de Infraestrutura envolvendo Expansão e
                                 Gestão Imobiliária, Engenharia, Manutenção Predial, Facilities e Segurança Empresarial.
-                                Atualmente é Diretor Executivo Nacional (Brasil) de Operações e Real Estate do Grupo
-                                Laureate International Universities.</p>
+                                Atualmente é Diretor Executivo Nacional (Brasil) de Facilities e Real Estate do Grupo Laureate International Universities</p>
                         </div>
                     </div>
                 </div>

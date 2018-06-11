@@ -5,7 +5,8 @@
       <div class="col-lg-8 col-md-8 col-sm-8">
          <div id="at_rodape1">
              <h1 class="texto_corrido_branco_sub">Atendimento</h1>
-          <p class="texto_corrido_branco">R. Sebastião Bruni 54, V. Nova Cintra, Mogi, São Paulo/SP</p>
+             <p class="texto_corrido_branco"><strong>Unidade Nova Cintra:</strong> Rua Sebastião Bruni 54, V. Nova Cintra - Mogi - São Paulo/SP</p>
+             <p class="texto_corrido_branco"><strong>Unidade Bras Cubas:</strong> Rua Francisco Afonso de Mello 267, Bras Cubas - Mogi - São Paulo/SP</p>
           </div>
      </div>
        
@@ -17,7 +18,7 @@
        
        <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
-    <div id="reservados" class="texto_reservados">® 2016 Todos os Direitos Reservados para SUPREME Educators - Idiomas Brasil | <a href="http://www.goon-int.com" target="_blank" class="linkbranco" title="Goon Interativa">by <img src="images/logo_goon.svg" width="25px" alt="" /></a></div>
+    <div id="reservados" class="texto_reservados">® 2016 Todos os Direitos Reservados para SUPREME Educators - Idiomas Brasil | <a href="https://www.linkedin.com/in/fernandopires/" target="_blank" class="linkbranco" title="Fernando Pires">by FPweb</a></div>
 
        </div>
      </div>

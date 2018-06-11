@@ -63,17 +63,193 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola01.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola02.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola03.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola04.jpg" class="img-responsive center-block"></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img1"><img src="images/escola/img1.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img2"><img src="images/escola/img2.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img3"><img src="images/escola/img3.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img4"><img src="images/escola/img4.jpg" class="img-responsive center-block"></a></div></div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola05.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola06.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola07.jpg" class="img-responsive center-block"></div></div>
-                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><img src="images/supreme_escola08.jpg" class="img-responsive center-block"></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img5"><img src="images/escola/img5.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img6"><img src="images/escola/img6.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img7"><img src="images/escola/img7.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img8"><img src="images/escola/img8.jpg" class="img-responsive center-block"></a></div></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img9"><img src="images/escola/img9.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img10"><img src="images/escola/img10.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img11"><img src="images/escola/img11.jpg" class="img-responsive center-block"></a></div></div>
+                    <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img12"><img src="images/escola/img12.jpg" class="img-responsive center-block"></a></div></div>
                 </div>
 
             </div>
+    <!--  Img1 -->
+    <div class="modal img1" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img1.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img2" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img2.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img3" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img3.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img4" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img4.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img5" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img5.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img6" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img6.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img7" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img7.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img8" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img8.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img9" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img9.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img10" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img10.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img11" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img11.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal img12" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <img src="images/escola/img12.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
         <?php include("include/footer.php"); ?>
