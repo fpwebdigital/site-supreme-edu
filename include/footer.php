@@ -5,7 +5,6 @@
       <div class="col-lg-8 col-md-8 col-sm-8">
          <div id="at_rodape1">
              <h1 class="texto_corrido_branco_sub">Atendimento</h1>
-             <p class="texto_corrido_branco"><strong>Unidade Nova Cintra:</strong> Rua Sebastião Bruni 54, V. Nova Cintra - Mogi - São Paulo/SP</p>
              <p class="texto_corrido_branco"><strong>Unidade Bras Cubas:</strong> Rua Francisco Afonso de Mello 267, Bras Cubas - Mogi - São Paulo/SP</p>
           </div>
      </div>
