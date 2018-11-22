@@ -9,7 +9,8 @@
         <div class="col-lg-4 col-md-4 col-sm-4">
             <div id="fundos">
                   <div id="telefone" class="texto_tel">
-                      <p><i class="fa fa-phone-square fa-1x"></i> Atendimento: (11) 2312-4651</p>
+                      <p><i class="fa fa-phone-square fa-1x"></i> Tel: (11) 2610-9326</p>
+                      <p><i class="fab fa-whatsapp"></i> WhatsApp: (11) 99223-3599</p>
                       <p><i class="fa fa-envelope"></i><a href="mailto:contato@supreme-edu.com.br" class="linkmail" title="Enviar um E-mail"> contato@supreme-edu.com.br</a></p>
                     </div>
             </div>
