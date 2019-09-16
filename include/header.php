@@ -20,10 +20,22 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favs/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="../favs/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="../favs/favicon-16x16.png">
-<link rel="manifest" href="../favs/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="../favs/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+<meta name="author" content="Fernando Pires">
+<meta property="og:type" content="website">
+<meta property="og:title" content="">
+<meta property="og:url" content="">
+<meta property="og:image" content="">
+<meta property="og:image:alt" , content="">
+<meta property="og:image:type" , content="">
+<meta property="og:image:width" , content="">
+<meta property="og:image:height" , content="">
+<meta name=”twitter:card” content=””>
+<meta name=”twitter:title” content="">
+<meta name=”twitter:description” content="">
+<meta name=”twitter:creator” content="">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
