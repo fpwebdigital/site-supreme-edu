@@ -17,10 +17,10 @@
                 <div class="row">
 
 
-                    <div class="col-lg-8 col-md-12 col-sm-12">
+                    <div class="col-lg-8 col-md-8 col-sm-12">
                         <img src="images/banner-academy-2.jpg" class="img-responsive center-block">
                     </div>
-                    <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
                         <div id="bg_branco-eventos" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-calendar-alt"></i> Data e <i class="far fa-clock"></i> Horário</span><br>
                             06 de Novembro de 2019<br>
@@ -36,7 +36,7 @@
                              Roupa Social
                         </div>
 
-                        <a href="mailto:events@supreme-edu.com.br" class="linkmais" target="_blank"><strong>Veja fotos do Evento anterior</strong></a>
+                        <a href="academic-diet-2018" class="linkmais" target="_self"><strong>Veja fotos do Evento anterior</strong></a>
 
                     </div>
 
