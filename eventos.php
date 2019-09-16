@@ -13,31 +13,31 @@
                     </div>
                 </div>
             </div>
-            <div class="container-fluid">
-               <div class="row">
-                   <img src="images/img-topo-eventos.jpg" class="img-responsive center-block">
-               </div>
-            </div>
             <div class="container">
                 <div class="row">
+
+
+                    <div class="col-lg-8 col-md-12 col-sm-12">
+                        <img src="images/banner-academy-2.jpg" class="img-responsive center-block">
+                    </div>
                     <div class="col-lg-4 col-md-12 col-sm-12">
-                        <div id="bg_branco" class="texto_geral">
+                        <div id="bg_branco-eventos" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-calendar-alt"></i> Data e <i class="far fa-clock"></i> Horário</span><br>
-                        06 de Novembro de 2019<br>
-                             08:00 h às 13:00 h
+                            06 de Novembro de 2019<br>
+                            08:00 h às 13:00 h
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 col-sm-12">
-                        <div id="bg_branco" class="texto_geral">
+                        <div id="bg_branco-eventos" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-map"></i> Local</span><br>
-                           Avenida Liberdade 747, Liberdade/SP<br>5º andar da (FMU)
+                            Avenida Liberdade 747, Liberdade/SP<br>5º andar da (FMU)
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 col-sm-12">
-                        <div id="bg_branco" class="texto_geral">
+
+                        <div id="bg_branco-eventos" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-user-tie"></i> Vestimenta</span><br>
                              Roupa Social
                         </div>
+
+                        <a href="mailto:events@supreme-edu.com.br" class="linkmais" target="_blank"><strong>Veja fotos do Evento anterior</strong></a>
+
                     </div>
 
                 </div>

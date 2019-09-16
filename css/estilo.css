@@ -1672,6 +1672,16 @@ font-family: 'Lato', sans-serif;
     padding: 10px;
     margin-top: 20px;
 }
+#bg_branco-eventos {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-color:#ffffff;
+	-webkit-box-shadow: 1px 1px 8px 2px #b7b7b7;
+	box-shadow: 1px 1px 8px 2px #b7b7b7;
+	padding: 10px;
+	margin-bottom: 20px;
+}
 
 #at_rodape {
     width: 100%;
