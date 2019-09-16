@@ -131,15 +131,19 @@ a.solutions_role_image:hover img {
 	background-color: #ffffff;
 }
 
+.img-redonda {
+	border-radius: 50%;
+}
+
 #faixatopo {
-	position: fixed;
+	position: relative;
 	width: 100%;
 	height: auto;
+	margin: auto;
 	background-color: #3d1d12;
 	border-bottom: solid 4px #ffde5d;
 	-webkit-box-shadow: 1px 1px 8px 2px #757575;
 	box-shadow: 1px 1px 8px 2px #757575;
-	z-index: 50000;
 }
 #fundos {
     width: 100%;

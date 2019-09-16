@@ -23,7 +23,7 @@
                     <div class="col-lg-4 col-md-12 col-sm-12">
                         <div id="bg_branco" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-calendar-alt"></i> Data e <i class="far fa-clock"></i> Horário</span><br>
-                        11 de agosto de 2018<br>
+                        06 de Novembro de 2019<br>
                              08:00 h às 13:00 h
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                     <div class="col-lg-4 col-md-12 col-sm-12">
                         <div id="bg_branco" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-user-tie"></i> Vestimenta</span><br>
-                             Roupa Formal
+                             Roupa Social
                         </div>
                     </div>
 
@@ -54,39 +54,14 @@
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div id="q_conteudo" class="esquerdo texto_geral">
                             <h1 class="titulo_marrom">Visão geral do Evento</h1>
-                            <p>Percebemos que muitas pessoas no Brasil aprendem inglês, amam a língua e se esforçam muito para
-                            melhorar o idioma inglês, no entanto, há poucas oportunidades de praticar e usar a língua inglesa no
-                            Brasil. A maioria só está restrita a praticar o inglês durante as aulas com o professor, ou quando tem
-                                a oportunidade de viajar para o exterior para um país de língua inglesa que, claro, é muito caro.</p>
-
-                            <p>Outro desafio é que há pessoas que têm a oportunidade de praticar bem a língua inglesa em bases
-                            individuais ou por e-mail porque trabalham em empresas internacionais ou outras podem interagir
-                            mais com estrangeiros em seu local de culto religioso. No entanto, eles podem não ter oportunidade
-                            adequada para fazer discursos para um grande público usando a língua inglesa, ou sua interação é
-                                limitada apenas às poucas pessoas em sua área de trabalho ou local de culto religioso.</p>
-
-                            <p>Em uma tentativa de resolver os desafios mencionados acima, a <strong>Supreme Educators Idiomas Brazil
-                                    Ltda</strong> está organizando sua <strong>1ª edição da SUPREME ACADEMIC DIET</strong>. Este programa foi concebido para
-                            criar uma oportunidade para os profissionais interagirem em inglês, independentemente do seu nível
-                                de proficiência na língua inglesa.</p>
-
-                            <p>Mais de 20 empresas estarão participando do evento, com algumas apresentações curtas de
-                                powerpoint e inter-setoriais networking, todas para serem feitas em inglês.</p>
+                            <p>Percebemos que muitas pessoas no Brasil aprendem inglês, amam a língua e se esforçam muito para melhorar o idioma inglês, no entanto, há poucas oportunidades de praticar e usar a língua inglesa no Brasil. A maioria só está restrita a praticar o inglês durante as aulas com o professor, ou quando tem a oportunidade de viajar para o exterior para um país de língua inglesa que, claro, é muito caro.</p>
+                            <p>Em uma tentativa de resolver os desafios mencionados acima, e seguindo o sucesso de primeira edição, a Supreme Educators Idiomas Brazil Ltda está organizando sua <strong>2ª edição da SUPREME ACADEMIC DIET</strong>. Este programa foi concebido para criar uma oportunidade para os profissionais interagirem em inglês, independentemente do seu nível de proficiência na língua inglesa. Mais de 30 empresas estarão participando do evento, com algumas apresentações curtas de powerpoint e inter-setoriais networking, todas para serem feitas em inglês.</p>
                             <h1 class="titulo_marrom">Como Funciona?</h1>
-
-                            <p>Selecionamos 8 profissionais e executivos de diferentes empresas e de diferentes setores que também
-                            são alunos da Supreme Educators Idiomas Brasil para fazer apresentações curtas de powerpoint sobre
-                            temas relacionados às suas diferentes empresas no idioma inglês. Depois disso, haverá perguntas do
-                                público que também será conduzido inteiramente em inglês.</p>
-
-                            <p>Haverá um intervalo de uma hora no meio do programa para coffee break executiva e inter-setoriais
-                            networking onde todos os participantes terão a oportunidade de interagir e trocar cartões de visita
-                                de uma maneira muito organizada e bem coordenada e tudo a ser feito em inglês.</p>
-
-                            <p>Não há necessidade de nenhum dos participantes se preocupar com seu nível de inglês, pois todos os
-                            participantes ainda estão aprendendo o idioma inglês, além de haver 20 professores da escola
-                                Supreme Educators disponíveis para fornecer apoio a todos os participantes durante todo o programa.</p>
-
+                            <ul>
+                                <li>Haverá alguns profissionais e executivos de diferentes empresas e de diferentes setores que também são alunos da <strong>Supreme Educators</strong> para fazer apresentações curtas de powerpoint sobre temas relacionados às suas diferentes empresas no idioma inglês.</li>
+                                <li>Haverá coffee break executiva e <strong>inter-setoriais networking</strong> onde todos os participantes terão a oportunidade de interagir e trocar cartões de visita de uma maneira muito organizada e bem coordenada e tudo a ser feito em inglês.</li>
+                                <li><strong>Não há necessidade de nenhum dos participantes se preocupar com seu nível de inglês, pois todos os participantes ainda estão aprendendo o idioma inglês, além de haver 20 professores da escola Supreme Educators disponíveis para fornecer apoio a todos os participantes durante todo o programa</strong></li>
+                            </ul>
                         </div>
 
                 <div class="row">
@@ -102,7 +77,7 @@
                                     <div class="role_img_container">
 
                                         <a href=""  data-toggle="modal" data-target=".kingsley" title="Kingsley Adeshina" class="solutions_role_image">
-                                            <img src="images/kingsley-normal.png" alt="kingsley-normal.png" title="Saiba mais sobre Kingsley Adeshina">
+                                            <img src="images/kingsley-2019.png" alt="Kingsley" title="Saiba mais sobre Kingsley Adeshina">
                                         </a>
                                     </div>
                                     <h3 class="titulo_marrom2">Kingsley Adeshina</h3>
@@ -149,13 +124,13 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".clovis" title="Clovis Porto" class="solutions_role_image">
-                                            <img src="images/clovis-normal.png" alt="Clovis Porto.png" title="Saiba mais sobre Clovis Porto">
+                                        <a href=""  data-toggle="modal" data-target=".wilka" title="Wilka Estrela" class="solutions_role_image">
+                                            <img src="images/wilka-estrela.png" alt="Wilka Estrela" title="Saiba mais sobre Wilka Estrela">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Clovis Porto</h3>
+                                    <h3 class="titulo_marrom2">Wilka Estrela</h3>
                                     <div class="role_description">
-                                        Grupo Fleury
+                                        Allergan Brasil
                                     </div>
                                 </div>
                             </div>
@@ -163,13 +138,13 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".jair" title="Jair Liberal" class="solutions_role_image">
-                                            <img src="images/jair-normal.png" alt="Jair Liberal.png" title="Saiba mais sobre Jair Liberal">
+                                        <a href=""  data-toggle="modal" data-target=".katia" title="Katia de Assis" class="solutions_role_image">
+                                            <img src="images/katia-assis.png" alt="Katia de Assis" title="Saiba mais sobre Katia de Assis">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Jair Liberal</h3>
+                                    <h3 class="titulo_marrom2">Katia De Assis</h3>
                                     <div class="role_description">
-                                        Grupo Zap
+                                        Hospital do Coração
                                     </div>
                                 </div>
                             </div>
@@ -177,13 +152,13 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".lincoln" title="Lincoln Gomes" class="solutions_role_image">
-                                            <img src="images/lincoln-normal.png" alt="Lincoln Gomes.png" title="Saiba mais sobre Lincoln Gomes">
+                                        <a href=""  data-toggle="modal" data-target=".eliane" title="Eliane Souza" class="solutions_role_image">
+                                            <img src="images/eliane-pascoal.png" alt="Eliane Souza" title="Saiba mais sobre Eliane Souza">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Lincoln Gomes</h3>
+                                    <h3 class="titulo_marrom2">Eliane Paschoal de Souza</h3>
                                     <div class="role_description">
-                                        Hosp. Albert Einstein
+                                        Machado Nunes Advogados
                                     </div>
                                 </div>
                             </div>
@@ -194,13 +169,13 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".andrea" title="Andrea Vaine" class="solutions_role_image">
-                                            <img src="images/andrea-normal.png" alt="Andrea Vaine.png" title="Saiba mais sobre Andrea Vaine">
+                                        <a href=""  data-toggle="modal" data-target=".marcelo" title="Marcelo Duarte" class="solutions_role_image">
+                                            <img src="images/marcelo-duarte.png" alt="Marcelo Duarte" title="Saiba mais sobre Marcelo Duarte">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Andrea Vaine</h3>
+                                    <h3 class="titulo_marrom2">Marcelo Duarte</h3>
                                     <div class="role_description">
-                                        Manserv
+                                        MD Engenahria
                                     </div>
                                 </div>
                             </div>
@@ -208,29 +183,18 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".rafael" title="Rafael Lourenço" class="solutions_role_image">
-                                            <img src="images/rafael-normal.png" alt="Rafael Lourenço.png" title="Saiba mais sobre Rafael Lourenço">
+                                        <a href=""  data-toggle="modal" data-target=".maria" title="Maria Carolina Favero" class="solutions_role_image">
+                                            <img src="images/maria-favero.png" alt="Maria Carolina Favero" title="Saiba mais sobre Maria Carolina Favero">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Rafael Lourenço</h3>
+                                    <h3 class="titulo_marrom2">Maria Carolina Favero</h3>
                                     <div class="role_description">
-                                        Grupo Zap
+                                        Laureate Int’l Universities
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                                <div class="solutions_role_container">
-                                    <div class="role_add"><i class="fas fa-plus"></i></div>
-                                    <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".marcio" title="Marcio Lupianes" class="solutions_role_image">
-                                            <img src="images/marcio-normal.png" alt="Marcio Lupianes.png" title="Saiba mais sobre Marcio Lupianes">
-                                        </a>
-                                    </div>
-                                    <h3 class="titulo_marrom2">Marcio Lupianes</h3>
-                                        <div class="role_description">
-                                            Gruppo Campari
-                                        </div>
-                                </div>
+
                             </div>
 
                         </div>
@@ -296,10 +260,10 @@
 
                                 </div>
                                 <div class="col-lg-4 col-md-12 col-sm-12 texto_geral justificar">
-                                    <p><strong>Valores Individuais</strong><br>1 ou 2 participantes - R$ 100,00 cada para inscrição até dia 15 de julho, a partir do dia 16 de julho a inscrição
-                                        será R$ 200,00 cada.</p>
-                                    <p><strong>Valores para Grupo de 3 Pessoas</strong><br>Cada grupo de 3 participantes - R$ 150,00 por grupo. Inscrição até dia 15 de julho, a partir do dia
-                                        16 de julho inscrição será R$ 250,00 para o grupo das 3 pessoas</p>
+                                    <p><strong>Valores Individuais</strong><br>1 ou 2 participantes - R$ 200,00 cada para inscrição até dia 15 de outubro, a partir do dia 16 de outubro a inscrição
+                                        será R$ 250,00 cada.</p>
+                                    <p><strong>Valores para Grupo de 3 Pessoas</strong><br>Cada grupo de 3 participantes - R$ 450,00 por grupo. Inscrição até dia 15 de outubro, a partir do dia
+                                        16 de outubro inscrição será R$ 550,00 cada grupo.</p>
                                     <p>Para mais informações sobre o evento, envie um email para: <a href="mailto:events@supreme-edu.com.br" class="linkmais" target="_blank"><strong>events@supreme-edu.com.br</strong></a> </p>
                                 </div>
                             </div>
@@ -328,17 +292,12 @@
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/kingsley-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/kingsley-2019.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Redefining Education and Communication (case study Supreme Educators Idiomas Brazil Ltda)</strong></p>
+                            <p><strong>Impacting lives and creating opportunities with Good Communication (case study Supreme Educators Idiomas Brazil)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Empreendedor, desenvolvedor de negócios, administrador, professor, orador público,
-                                comerciante experiente. Possui graduação e pós-graduação em Administração. Com uma
-                                carreira de sucesso de quase 20 anos em muitos setores diferentes, incluindo bancos, T.I,
-                                mercado de ações, petróleo e gás e educação. Também tem muita experiência em assuntos
-                                interculturais porque viveu e trabalhou com empresas em diferentes países da África, Europa
-                                e América Latina. Atualmente é o CEO da Supreme Educators Idiomas Brazil Ltda.</p>
+                            <p>Empreendedor, desenvolvedor de negócios, administrador, professor, orador público, comerciante experiente. Possui graduação e pós-graduação em Administração. Com uma carreira de sucesso de quase 20 anos em muitos setores diferentes, incluindo bancos, T.I, mercado de ações, petróleo e gás e educação. Também tem muita experiência em assuntos interculturais porque viveu e trabalhou com empresas em diferentes países da África, Europa e América Latina. Atualmente é International Representative para Malta University Language School, Malta (Europa), International Business partner com Cavendish School of English, Inglaterra, e o CEO da Supreme Educators Idiomas Brazil Ltda.</p>
                         </div>
                     </div>
                 </div>
@@ -356,19 +315,12 @@
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/joao-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/joao-info.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Globalizing university education in Brazil (case study Laureate International Universities)</strong></p>
+                            <p><strong>Operational aspects of university education in Brazil (case study Laureate International Universities)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Engenheiro Civil com pós-graduações em Real Estate, Gerenciamento de Empreendimentos
-                                da Construção Civil e Manutenção Predial, além de especializações em Planejamento e Gestão
-                                de Projetos. Possui mais de 27 anos de experiência em Gestão de Obras e Projetos, Real
-                                Estate, Manutenção Predial, Facilities e Segurança. Sólida experiência na estruturação das
-                                áreas de gestão e liderança das equipes próprias e terceiras. O executivo ficou por 8 anos no
-                                Grupo Fleury, sendo responsável por toda a área de Infraestrutura envolvendo Expansão e
-                                Gestão Imobiliária, Engenharia, Manutenção Predial, Facilities e Segurança Empresarial.
-                                Atualmente é Diretor Executivo Nacional (Brasil) de Facilities e Real Estate do Grupo Laureate International Universities</p>
+                            <p>Engenheiro Civil com pós-graduações em Real Estate, Gerenciamento de Empreendimentos da Construção Civil e Manutenção Predial, além de especializações em Planejamento e Gestão de Projetos. Possui mais de 27 anos de experiência em Gestão de Obras e Projetos, Real Estate, Manutenção Predial, Facilities e Segurança. Sólida experiência na estruturação das áreas de gestão e liderança das equipes próprias e terceiras. O executivo ficou por 8 anos no Grupo Fleury, sendo responsável por toda a área de Infraestrutura envolvendo Expansão e Gestão Imobiliária, Engenharia, Manutenção Predial, Facilities e Segurança Empresarial. Atualmente é Diretor Executivo Nacional (Brasil) de Facilities e Real Estate do Grupo Laureate International Universities</p>
                         </div>
                     </div>
                 </div>
@@ -386,17 +338,12 @@
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/lea-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/lea-info.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
                             <p><strong>Improving communication within an industry through journalism (case study Infra magazine)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Empreendedora, administradora, jornalista e pós-graduada em Marketing. Possui carreira
-                                especializada em gestão de revistas técnicas, sendo os últimos 18 anos como Diretora de
-                                Redação da Revista INFRA. É gestora de conteúdo dos Eventos INFRA, realizados em São Paulo
-                                e outras cinco capitais do País. Soma à sua trajetória a participação em inúmeros eventos,
-                                tanto no âmbito nacional quanto internacional. Atualmente é aluna do MBA/USP
-                                Gerenciamento de Facilidades.</p>
+                            <p>Empreendedora, Administradora, Jornalista, pós-graduada em Marketing, com MBA de Gerenciamento de Facilidades pela Universidade de São Paulo (USP) e mais de 20 anos de carreira, Léa Lobo é uma profissional multidisciplinar, transversal e proativa, seguindo naturalmente o perfil de liderança humanizada, que inspira e cativa em suas palavras e ações. Ela é pioneira na disseminação do Facility Management no Brasil, mesmo antes do conceito sequer ser mencionado no País. É essa bandeira que ela levanta há mais de 20 anos por meio da Revista Infra – a única publicação do País especializada no tema, em circulação ininterrupta há duas décadas. Ela transformou a Infra em uma plataforma de conteúdo, que se tornou a maior referência em desenvolvimento, educação e networking do universo dos facilities management, por meio da revista impressa, portal de notícias, os seus mais de 10 eventos anuais realizado em diversas regiões do país, além das inúmeras visitas técnicas educativas. Reunindo sua experiência e formação, e com o objetivo dar amplitude à sua missão profissional, ela também compartilha conhecimentos em palestras, personalizados de acordo com a necessidade do público.</p>
                         </div>
                     </div>
                 </div>
@@ -404,27 +351,22 @@
         </div>
     </div>
 
-    <!--  Modal Clovis Porto -->
-    <div class="modal clovis" tabindex="-1" role="dialog">
+    <!--  Modal Wilka Estrela -->
+    <div class="modal wilka" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Clovis Porto</h4>
+                    <h4 class="modal-title titulo_marrom2">Wilka Estrela</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/clovis-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/wilka-estrela.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>New trends in the Diagnostic industry (case study Grupo Fleury)</strong></p>
+                            <p><strong>Importance of international companies to national growth (case study Allergan Brasil)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Engenheiro Mecatrônico pela Universidade Paulista, Pós Graduação em Gestão de Projetos e
-                                MBA em Gestão de Negócios. É MCR (Master Corporate Real Estate) pela CoreNet Global. Tem
-                                mais de 22 anos de experiência em Manutenção Industrial do ramo químico/farmacêutico,
-                                Manutenção Predial e Facilities Management no segmento de saúde, assim como implantação
-                                de projetos de variados portes. Atualmente é Gerente Corporativo Sênior de Manutenção
-                                Predial, Facilities e Assuntos Regulatórios do Grupo Fleury</p>
+                            <p>Em Breve</p>
                         </div>
                     </div>
                 </div>
@@ -432,28 +374,22 @@
         </div>
     </div>
 
-    <!--  Modal Jair Liberal -->
-    <div class="modal jair" tabindex="-1" role="dialog">
+    <!--  Modal Katia de Assis -->
+    <div class="modal katia" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Jair Liberal</h4>
+                    <h4 class="modal-title titulo_marrom2">Katia de Assis</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/jair-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/katia-assis.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Importance of Accounting department in Real Estate industry (case study Grupo Zap)</strong></p>
+                            <p><strong>The inside view of operations in hospital environment (case study Hospital de Coração)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Graduado em Administração de Empresas pela Universidade Guarulhos e possui Mestrado em
-                                Gestão de Negócios pela FGV em 2005 e 2008, respectivamente. Tem 26 anos de experiência
-                                em Contabilidade Financeira e Gestão de Negócios. Começou sua carreira no Grupo Lund em
-                                1992. Ele ingressou na Zap Imovies em 2011 depois de trabalhar como líder em algumas outras
-                                empresas também. Em 2017/2018, Jair desempenhou um papel significativo na fusão bemsucedida
-                                entre a Zap Imovies e a Vivareal, hoje conhecida como Zap Ever Group desde janeiro
-                                de 2018. Atualmente, é gerente de finanças do Grupo Zap.</p>
+                            <p>Hoteleira, Graduado em pela universidade HOTEC,cursou pós graduação em Administração de Negócios pelo Mackenzie, MBA em Gestão de Facilidades pela USP  e atualmente cursando especialização em direito imobiliário pela FGV. Carreira consolidada na área de Saúde, tendo atuado nos últimos 14 anos em hospitais particulares triple A , com certificados LEED GOLD e JCI(Joint Commission Internacional). Soma à sua trajetória a publicação de artigos e palestrar em eventos do setor. Atualmente é Coordenadora de Facilities HCOR – Hospital do Coração.</p>
                         </div>
                     </div>
                 </div>
@@ -461,30 +397,22 @@
         </div>
     </div>
 
-    <!--  Modal Lincoln Gomes -->
-    <div class="modal lincoln" tabindex="-1" role="dialog">
+    <!--  Modal Eliane Sousa -->
+    <div class="modal eliane" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Lincoln Gomes</h4>
+                    <h4 class="modal-title titulo_marrom2">Eliane Paschoal de Souza</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/linconl-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/eliane-pascoal.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Facilities management in the Healthcare industry (case study Hospital
-                                    Isrealita Albert Einstein)</strong></p>
+                            <p><strong>The modern dynamics of legal activities (case study Machado Nunes Advogados)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Administrador, Graduado em gestão de negócios e Bacharel em Marketing pela universidade
-                                Anhembi Morumbi, cursou especialização em direito imobiliário pela FGV e atualmente cursa
-                                MBA Executivo em Gestão de Saúde pelo Insper. Carreira consolidada como FM, tendo atuado
-                                nos últimos 17 anos em empresa como Microsoft, Cushman & Wakfield, Etna/Vivara e Grupo
-                                Fleury. Soma à sua trajetória a publicação de artigos e palestrar em eventos do setor e é
-                                docente nos cursos de pós Graduação de Excelência Operacional e Gestão de serviços
-                                hospitalares pelo Centro de Ensino e Pesquisa Albert Einstein. Atualmente é Gerente de
-                                Facilities da SBIBAE – Sociedade Beneficente Israelita Albert Einstein.</p>
+                            <p>Em Breve</p>
                         </div>
                     </div>
                 </div>
@@ -492,26 +420,22 @@
         </div>
     </div>
 
-    <!--  Modal Andrea Vaine -->
-    <div class="modal andrea" tabindex="-1" role="dialog">
+    <!--  Modal Marcelo Duarte -->
+    <div class="modal marcelo" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Andrea Vaine</h4>
+                    <h4 class="modal-title titulo_marrom2">Marcelo Duarte</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/andrea-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/marcelo-duarte.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>The advancement of outsourcing services in Brazil (case study Manserv)</strong></p>
+                            <p><strong>Exploring investment opportunities in Brazil (case study MD Engenharia)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Pós-graduada em Gestão de Negócios em Serviços pela Universidade Presbiteriana
-                                Mackenzie, bacharel em administradora hoteleira pelo Uni Sant'anna e é formada na categoria
-                                green belt do programa Lean Six Sigma. Atua há 15 anos na área de FM e contribuiu na gestão
-                                de serviços do Hospital Albert Einstein, FMU, UNIFACS e atualmente ocupa da posição de
-                                Diretora Operações de Hospitais e Saúde na Manserv Facilities.</p>
+                            <p>Em Breve</p>
                         </div>
                     </div>
                 </div>
@@ -519,28 +443,22 @@
         </div>
     </div>
 
-    <!--  Modal Rafael de Oliveira Lourenco -->
-    <div class="modal rafael" tabindex="-1" role="dialog">
+    <!--  Modal Maria Carolina Favero -->
+    <div class="modal maria" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Rafael de Oliveira Lourenco</h4>
+                    <h4 class="modal-title titulo_marrom2">Maria Carolina Favero</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/rafael-info.png" class="img-responsive center-block"> </div>
+                        <div class="col-md-4"><img src="images/maria-favero.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Importance of standardized internal communication within the
-                                    company (case study Grupo Zap)</strong></p>
+                            <p><strong>Importance of standardized procedures in facilities management (case study Laureate Int’l Universities)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Rafael Lourenço é Jornalismo formado pela Universidade São Judas Tadeu e mestre em
-                                Comunicação pela Faculdade Casper Líbero. Trabalha com comunicação interna desde 2011
-                                e, durante este período teve oportunidade de participar de projetos de mudanças de cultura,
-                                fusão e aquisição de empresas. Foi responsável pela implantação da área de Comunicação
-                                Interna na Construtora Tenda e no ZAP Imóveis. Atualmente é responsável pela área de
-                                Comunicação Interna e Endomarketing do Grupo ZAP.</p>
+                            <p>Em Breve</p>
                         </div>
                     </div>
                 </div>
