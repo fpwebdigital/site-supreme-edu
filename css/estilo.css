@@ -139,7 +139,7 @@ a.solutions_role_image:hover img {
 	border-bottom: solid 4px #ffde5d;
 	-webkit-box-shadow: 1px 1px 8px 2px #757575;
 	box-shadow: 1px 1px 8px 2px #757575;
-	margin-top: -20px;
+	z-index: 50000;
 }
 #fundos {
     width: 100%;
