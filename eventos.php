@@ -31,12 +31,12 @@
                             Avenida Liberdade 747, Liberdade/SP<br>5º andar da (FMU)
                         </div>
 
-                        <div id="bg_branco-eventos" class="texto_geral">
+                        <div id="bg_branco-eventos" class="texto_geral">"
                             <span class="titulo_marrom"><i class="fas fa-user-tie"></i> Vestimenta</span><br>
                              Roupa Social
                         </div>
 
-                        <a href="academic-diet-2018" class="linkmais" target="_self"><strong>Veja fotos do Evento anterior</strong></a>
+                        <a href="academic-diet-2018" class="linkmais" target="_self" style="font-size: 25px;><strong>Veja fotos do Evento anterior</strong></a>
 
                     </div>
 
