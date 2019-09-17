@@ -36,7 +36,7 @@
                              Roupa Social
                         </div>
 
-                        <a href="academic-diet-2018" class="linkmais" target="_self" style="font-size: 25px;><strong>Veja fotos do Evento anterior</strong></a>
+                        <a href="academic-diet-2018" class="linkmais" target="_self" style="font-size: 25px;"><strong>Veja fotos do Evento anterior</strong></a>
 
                     </div>
 

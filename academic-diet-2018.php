@@ -54,7 +54,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img17"><img src="images/academic-diet-2018/img17.jpg" class="img-responsive center-block"></a></div></div>
                 <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img18"><img src="images/academic-diet-2018/img18.jpg" class="img-responsive center-block"></a></div></div>
                 <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img19"><img src="images/academic-diet-2018/img19.jpg" class="img-responsive center-block"></a></div></div>
-                <div class="col-lg-3 col-md-3 col-sm-3"></div>
+                <div class="col-lg-3 col-md-3 col-sm-3"><div id="espaco_fotos"><a href=""  data-toggle="modal" data-target=".img20"><img src="images/academic-diet-2018/img20.jpg" class="img-responsive center-block"></a></div></div>
             </div>
 
     </div>
@@ -320,6 +320,20 @@
                     <div class="modal-body">
                         <div class="row">
                             <img src="images/academic-diet-2018/img19.jpg" class="img-responsive center-block">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal img20" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">Fechar</span></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <img src="images/academic-diet-2018/img20.jpg" class="img-responsive center-block">
                         </div>
                     </div>
                 </div>
