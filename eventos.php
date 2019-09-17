@@ -269,13 +269,7 @@
                             </div>
                         </div>
                         <hr>
-                        <div class="row">
-                            <h1 class="titulo_marrom2 centralizar">Patrocinadores</h1>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-laureate.png" class="img-responsive center-block"><br></div>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-einstein.png" class="img-responsive center-block"><br></div>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-fleury.png" class="img-responsive center-block"><br></div>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="images/parceiro-manserv.png" class="img-responsive center-block"><br></div>
-                        </div>
+
 
 
 
