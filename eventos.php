@@ -124,11 +124,11 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".wilka" title="Wilka Estrela" class="solutions_role_image">
-                                            <img src="images/wilka-estrela.png" alt="Wilka Estrela" title="Saiba mais sobre Wilka Estrela">
+                                        <a href=""  data-toggle="modal" data-target=".mariana" title="Mariana Barreto" class="solutions_role_image">
+                                            <img src="images/mariana-barreto.jpg" alt="Mariana Barreto" title="Saiba mais sobre Mariana Barreto">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Wilka Estrela</h3>
+                                    <h3 class="titulo_marrom2">Mariana Barreto</h3>
                                     <div class="role_description">
                                         Allergan Brasil
                                     </div>
@@ -345,17 +345,17 @@
         </div>
     </div>
 
-    <!--  Modal Wilka Estrela -->
-    <div class="modal wilka" tabindex="-1" role="dialog">
+    <!--  Modal Mariana Barreto -->
+    <div class="modal mariana" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Wilka Estrela</h4>
+                    <h4 class="modal-title titulo_marrom2">Mariana Barreto</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/wilka-estrela.png" class="img-responsive center-block img-redonda"> </div>
+                        <div class="col-md-4"><img src="images/mariana-barreto.jpg" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
                             <p><strong>Importance of international companies to national growth (case study Allergan Brasil)</strong></p>
@@ -406,7 +406,8 @@
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
                             <p><strong>The modern dynamics of legal activities (case study Machado Nunes Advogados)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Em Breve</p>
+                            <p>Formada em Direito pela UNIFEO, possui MBA na FGV/SP em Gestão de Negócios e participou dos cursos: técnicas de negociação na FGV/SP, gestão de riscos e compliance pela FIPECAFI, Advanced Management Program  HR – HSM e gestão de pessoas IBMEC.</p>
+                             <p>Atuou na área de gestão de pessoas em grandes empresas no segmento da saúde e educacional, como DASA, Cruzeiro do Sul Educacional e FMU. Atuando fortemente em reestruturações, fusões, aquisições, processos de auditoria legal-trabalhista e gerenciamento de risco. Atualmente é Advogada no escritório Machado Nunes. </p>
                         </div>
                     </div>
                 </div>
