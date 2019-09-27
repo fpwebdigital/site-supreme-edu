@@ -31,7 +31,7 @@
                             Avenida Liberdade 747, Liberdade/SP<br>5º andar da (FMU)
                         </div>
 
-                        <div id="bg_branco-eventos" class="texto_geral">"
+                        <div id="bg_branco-eventos" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-user-tie"></i> Vestimenta</span><br>
                              Roupa Social
                         </div>
@@ -194,7 +194,18 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-
+                                <div class="solutions_role_container">
+                                    <div class="role_add"><i class="fas fa-plus"></i></div>
+                                    <div class="role_img_container">
+                                        <a href=""  data-toggle="modal" data-target=".barbosa" title="Rodrigo Barbosa" class="solutions_role_image">
+                                            <img src="images/rodrito-barbosa.png" alt="Rodrigo Barbosa" title="Saiba mais sobre Rodrigo Barbosa">
+                                        </a>
+                                    </div>
+                                    <h3 class="titulo_marrom2">Rodrigo Barbosa</h3>
+                                    <div class="role_description">
+                                        Hines Brasil
+                                    </div>
+                                </div>
                             </div>
 
                         </div>
@@ -454,6 +465,29 @@
                             <p><strong>Importance of standardized procedures in facilities management (case study Laureate Int’l Universities)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
                             <p>Em Breve</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  Modal Maria Rodrigo Barbosa -->
+    <div class="modal barbosa" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title titulo_marrom2">Rodrigo Barbosa</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4"><img src="images/rodrito-barbosa.png" class="img-responsive center-block img-redonda"> </div>
+                        <div class="col-md-8 texto_geral justificar">
+                            <h1 class="titulo_marrom2">Tema da Palestra</h1>
+                            <p><strong>The scope of property management in Brazil (case study Hines Brasil)</strong></p>
+                            <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
+                            <p>Rodrigo Barbosa, Administrador de Empresas, com mais de 10 anos de experiência em Asset, Property e Facility Management, atuando com big brands, empreendimentos triple A e LEED. Atualmente é responsável pela gestão e implantação de ações sustentáveis dos ativos aplicados ao GRESB e prospecção de novos clientes, além de presidir o primeiro comitê de inovação da Hines no Brasil. Atualmente é Property Manager no Hines Brasil</p>
                         </div>
                     </div>
                 </div>
