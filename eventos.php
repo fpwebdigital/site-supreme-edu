@@ -124,13 +124,13 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".mariana" title="Mariana Barreto" class="solutions_role_image">
-                                            <img src="images/mariana-barreto.jpg" alt="Mariana Barreto" title="Saiba mais sobre Mariana Barreto">
+                                        <a href=""  data-toggle="modal" data-target=".afonso" title="Afonso Gomes Bezerra" class="solutions_role_image">
+                                            <img src="images/afonso-gomes.png" alt="Afonso Gomes Bezerra" title="Saiba mais sobre Afonso Gomes Bezerra">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Mariana Barreto</h3>
+                                    <h3 class="titulo_marrom2">Afonso Gomes Bezerra</h3>
                                     <div class="role_description">
-                                        Allergan Brasil
+                                        Laureate Int’l Universities
                                     </div>
                                 </div>
                             </div>
@@ -183,13 +183,13 @@
                                 <div class="solutions_role_container">
                                     <div class="role_add"><i class="fas fa-plus"></i></div>
                                     <div class="role_img_container">
-                                        <a href=""  data-toggle="modal" data-target=".maria" title="Maria Carolina Favero" class="solutions_role_image">
-                                            <img src="images/maria-favero.png" alt="Maria Carolina Favero" title="Saiba mais sobre Maria Carolina Favero">
+                                        <a href=""  data-toggle="modal" data-target=".stanley" title="Stanley Adeshina" class="solutions_role_image">
+                                            <img src="images/stanley.png" alt="Stanley Adeshina" title="Saiba mais sobre MStanley Adeshina">
                                         </a>
                                     </div>
-                                    <h3 class="titulo_marrom2">Maria Carolina Favero</h3>
+                                    <h3 class="titulo_marrom2">Stanley Adeshina</h3>
                                     <div class="role_description">
-                                        Laureate Int’l Universities
+                                        Supreme Educators
                                     </div>
                                 </div>
                             </div>
@@ -356,22 +356,24 @@
         </div>
     </div>
 
-    <!--  Modal Mariana Barreto -->
-    <div class="modal mariana" tabindex="-1" role="dialog">
+    <!--  Modal Afonso Gomes Bezerra -->
+    <div class="modal afonso" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Mariana Barreto</h4>
+                    <h4 class="modal-title titulo_marrom2">Afonso Gomes Bezerra</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/mariana-barreto.jpg" class="img-responsive center-block img-redonda"> </div>
+                        <div class="col-md-4"><img src="images/afonso-gomes.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Importance of international companies to national growth (case study Allergan Brasil)</strong></p>
+                            <p><strong>How to create a culture of planning in Facilities (Case study Laureate Internatonal Universities)</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Em Breve</p>
+                            <p>Possui mais de dez anos de experiência em gestão de manutenção e facilities atuando em equipes de planejamento.</p>
+                            <p>Iniciou sua experiência na indústria, passando por consultoria, área de medicina diagnóstica e atualmente é Coordenador de Operações do Grupo Laureate International Universities a frente da área de Auditoria de Facilities e está fazendo pós-graduação em ciência de dados (data science).</p>
+
                         </div>
                     </div>
                 </div>
@@ -440,7 +442,12 @@
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
                             <p><strong>Exploring investment opportunities in Brazil (case study MD Engenharia)</strong></p>
-                            <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
+                            <h1 class="titulo_marrom2">
+                                <p>Marcelo Duarte é Mestre em Administração de Empresas (MBA executivo Insper), Engenheiro de Produção, atuando diretamente no gerenciamento de projetos e obras, com sólidas experiências e formações acadêmicas, carreira multifuncional desenvolvida em destacadas empresas nacionais e multinacionais, atuando em diversos segmentos de mercado.</p>
+                                <p>Foco na redução de custos em projetos (análise de custos, orçamentos), entregas no prazo programado (planejamento assertivo e consistente, gerenciamento de riscos, cronogramas, EAP), plano de negócios, gerenciamento de processos e qualidade (implementação de processos, sistemas de gerenciamento integrado, indicadores de qualidade, etc.) e habilidades em comunicação e gestão de pessoas Experiência com mais de 10 anos adquiridos nas áreas de Gestão da Construção nos diversos segmentos: Industrial, Corporativo, Residencial, Shopping Centers e Saúde.</p>
+                                <p>Experiência multidisciplinar nas fases de engenharia conceitual e detalhada de construção, comissionamento e startup, Gerenciamento de Contratos, gerenciamento de custos e orçamento, coordenação de Serviços de Engenharia em todas as cadeias de processo (atuando desde a concepção do projeto até a fase de construção).</p>
+                                <p>Atualmente atua no mercado de ações e como consultor financeiro, ajudando pessoas a buscarem independência financeira.</p>
+                            </h1>
                             <p>Em Breve</p>
                         </div>
                     </div>
@@ -449,22 +456,23 @@
         </div>
     </div>
 
-    <!--  Modal Maria Carolina Favero -->
-    <div class="modal maria" tabindex="-1" role="dialog">
+    <!--  Modal Stanley-->
+    <div class="modal stanley" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title titulo_marrom2">Maria Carolina Favero</h4>
+                    <h4 class="modal-title titulo_marrom2">Stanley Adeshina</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-4"><img src="images/maria-favero.png" class="img-responsive center-block img-redonda"> </div>
+                        <div class="col-md-4"><img src="images/stanley.png" class="img-responsive center-block img-redonda"> </div>
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
-                            <p><strong>Importance of standardized procedures in facilities management (case study Laureate Int’l Universities)</strong></p>
+                            <p><strong>Simplifying the meaning of Verb To Be</strong></p>
                             <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
-                            <p>Em Breve</p>
+                            <p>Stanley Adeshina tem graduação em geologia. Quando era aluno na faculdade, recebeu um prêmio da faculdade como o aluno mais promissor no segundo ano de estudo. Depois acabou se formando como o melhor da turma. Possui certificação em saúde e segurança no trabalho. Também possui certificação em Nutrição como nutricionista. Ele é voluntário de serviço público para muitos anos na área de ensino.</p>
+                            <p>Tem sido um orador público nos últimos 11 anos. Ajudou e motivou através palestras públicas, bem como sessões individuais. Palestra audiência de até 3000 participantes. Ele é um excelente coordenador das pessoas e projetos, coordenando até 50 funcionários por vez e levando-os ao sucesso, pois a equipe recebeu um reconhecimento oficial como a equipe com melhor desempenho. Atualmente é o gerente de marketing na Supreme Educators Idiomas Brasil.</p>
                         </div>
                     </div>
                 </div>
