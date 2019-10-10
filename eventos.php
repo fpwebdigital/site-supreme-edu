@@ -442,13 +442,11 @@
                         <div class="col-md-8 texto_geral justificar">
                             <h1 class="titulo_marrom2">Tema da Palestra</h1>
                             <p><strong>Exploring investment opportunities in Brazil (case study MD Engenharia)</strong></p>
-                            <h1 class="titulo_marrom2">
+                            <h1 class="titulo_marrom2">Sobre o Palestrante</h1>
                                 <p>Marcelo Duarte é Mestre em Administração de Empresas (MBA executivo Insper), Engenheiro de Produção, atuando diretamente no gerenciamento de projetos e obras, com sólidas experiências e formações acadêmicas, carreira multifuncional desenvolvida em destacadas empresas nacionais e multinacionais, atuando em diversos segmentos de mercado.</p>
                                 <p>Foco na redução de custos em projetos (análise de custos, orçamentos), entregas no prazo programado (planejamento assertivo e consistente, gerenciamento de riscos, cronogramas, EAP), plano de negócios, gerenciamento de processos e qualidade (implementação de processos, sistemas de gerenciamento integrado, indicadores de qualidade, etc.) e habilidades em comunicação e gestão de pessoas Experiência com mais de 10 anos adquiridos nas áreas de Gestão da Construção nos diversos segmentos: Industrial, Corporativo, Residencial, Shopping Centers e Saúde.</p>
                                 <p>Experiência multidisciplinar nas fases de engenharia conceitual e detalhada de construção, comissionamento e startup, Gerenciamento de Contratos, gerenciamento de custos e orçamento, coordenação de Serviços de Engenharia em todas as cadeias de processo (atuando desde a concepção do projeto até a fase de construção).</p>
                                 <p>Atualmente atua no mercado de ações e como consultor financeiro, ajudando pessoas a buscarem independência financeira.</p>
-                            </h1>
-                            <p>Em Breve</p>
                         </div>
                     </div>
                 </div>
