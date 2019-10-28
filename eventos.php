@@ -28,7 +28,8 @@
                         </div>
                         <div id="bg_branco-eventos" class="texto_geral">
                             <span class="titulo_marrom"><i class="fas fa-map"></i> Local</span><br>
-                            Avenida Liberdade 747, Liberdade/SP<br>5º andar da (FMU)
+                            Rua Vergueiro, 2009 Vila Mariana, São Paulo, 04101-100<br>
+                            FIAM-FAAM Centro Universitário
                         </div>
 
                         <div id="bg_branco-eventos" class="texto_geral">
